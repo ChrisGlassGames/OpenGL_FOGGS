@@ -1,0 +1,17 @@
+﻿  main.cpp
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\shader.h(55,35): warning C4101: 'e': unreferenced local variable
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\mesh.h(83,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(186,24): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(325,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(419,23): warning C4305: '+=': truncation from 'double' to 'float'
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(421,23): warning C4305: '-=': truncation from 'double' to 'float'
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(502,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(503,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(507,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(508,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(510,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(511,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(519,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\UNi Work\OpenGL_FOGGS\OpenGL_FOGGS\main.cpp(627,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL_FOGGS.vcxproj -> F:\UNi Work\OpenGL_FOGGS\x64\Debug\OpenGL_FOGGS.exe
